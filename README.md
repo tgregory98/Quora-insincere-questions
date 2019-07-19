@@ -1,6 +1,6 @@
 # Quora-insincere-questions-classification
 
-### NO DATA INCLUDED
+### NO DATA INCLUDED. SEE KAGGLE COMPETITION PAGE FOR DATA.
 These are just copies of the code from my public kernels listed below.
 
 - https://www.kaggle.com/tgregory98/quora-notebook-naive-bayes-attempt
