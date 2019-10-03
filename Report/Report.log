@@ -1,7 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6730 64-bit) (preloaded format=xelatex 2019.1.3)  19 JUL 2019 20:52
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6730 64-bit) (preloaded format=xelatex 2019.1.3)  3 OCT 2019 21:22
 entering extended mode
-**"C:/Users/Tristan Gregory/Documents/git/Kaggle/Report/Report.tex"
-("C:/Users/Tristan Gregory/Documents/git/Kaggle/Report/Report.tex"
+**"C:/Users/Tristan Gregory/Documents/git/Quora-insincere-questions-classificat
+ion/Report/Report.tex"
+
+("C:/Users/Tristan Gregory/Documents/git/Quora-insincere-questions-classificati
+on/Report/Report.tex"
 LaTeX2e <2018-04-01> patch level 5
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -755,23 +758,23 @@ File: leaderboard.png Graphic file (type bmp)
 File: summary.png Graphic file (type bmp)
 <summary.png>
  [3]
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
 [4] (Report.aux) ) 
 Here is how much of TeX's memory you used:
- 14327 strings out of 427798
- 265483 string characters out of 3151798
+ 14330 strings out of 427798
+ 265667 string characters out of 3151798
  309740 words of memory out of 3000000
- 18075 multiletter control sequences out of 15000+200000
- 12460 words of font info for 51 fonts, out of 3000000 for 9000
+ 18076 multiletter control sequences out of 15000+200000
+ 12468 words of font info for 52 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 55i,11n,54p,955b,207s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,11n,54p,989b,207s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on Report.pdf (4 pages).
